@@ -1,4 +1,6 @@
 .devices{
     width: 100%;
 }
-
+.align-item-center{
+    align-items: center !important;
+}
